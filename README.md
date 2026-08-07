@@ -44,8 +44,8 @@ This project is an interactive COVID-19 India Vaccination Dashboard built using 
 
 ## 📁 Files Included
 
-- CLEANED COVID DATA DASHBOARD.xlsx
-- COVID 19 FINAL DASHBOARD.png
+- FINAL COVID EXCEL DASHBOARD.xlsx
+- COVID DASHBOARD.png
 
 ---
 
