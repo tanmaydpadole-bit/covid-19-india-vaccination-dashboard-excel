@@ -7,10 +7,8 @@ This project is an interactive COVID-19 India Vaccination Dashboard built using 
 ---
 
 ## 📊 Dashboard Preview
+<img width="801" height="763" alt="Screenshot of Covid Dashboard" src="https://github.com/user-attachments/assets/80e4379a-0e8e-43ff-b3b8-c8db687e4fa0" />
 
-![Dashboard](COVID%2019%20FINAL%20DASHBOARD.png)
-
----
 
 ## 🛠️ Tools Used
 
